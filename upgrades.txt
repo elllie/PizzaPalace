@@ -1,0 +1,13 @@
+After Level 1: No upgrade possible
+After Level 2: No upgrade
+After Level 3: Buy 2nd pizza maker
+After Level 4: 1st shoe upgrade
+After Level 5: Buy 2nd topping station
+After Level 6: Buy 3rd pizza maker
+After Level 7: Buy 3rd topping station
+After Level 8: Upgrade 1st and 2nd pizza makers
+After Level 9: Buy 2nd oven
+After Level 10: 2nd shoe upgrade & upgrade 1st topping station
+After Level 11: Upgrade 3rd pizza maker and 2nd topping station
+After Level 12: Upgrade 1st oven
+After Level 13: Upgrade 2nd oven and 3rd topping station
